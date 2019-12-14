@@ -1,0 +1,59 @@
+{
+	margin: 0px;
+	padding: opx;
+}
+
+body{
+	background: url(../img/bg.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.container{
+	width: 600px;
+	margin: 10% auto;
+	overflow: hidden;
+}
+
+.login-section{
+	background-color: #f0f3f5cc;
+}
+
+.login-section img{
+
+display: block;
+
+margin: 0 auto;
+
+padding: 30px;
+}
+
+.login-section h2{
+
+text-align: center;
+
+color: #9c27b0c2;
+
+font-size: 30px;
+
+text-transform: uppercase;
+
+margin: 10px ,0px;
+
+margin: 10px 0px;
+}
+
+.form-section{
+	
+width: 100;
+	
+width: 100%;
+	
+padding: 8px;
+	
+/* overflow: hidden; */
+}
+
+.btn{
+
+}
